@@ -1,6 +1,6 @@
 N = int(input())
 list = []
-for i in range(1, N+1):
+for i in range(1, N + 1):
     if i % 15 == 0:
         list.append('Fizz Buzz')
         continue
