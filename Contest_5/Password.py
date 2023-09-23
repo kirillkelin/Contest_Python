@@ -30,3 +30,4 @@ if check_password(password):
     print("strong")
 else:
     print("weak")
+
